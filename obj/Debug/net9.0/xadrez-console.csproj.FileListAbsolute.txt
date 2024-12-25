@@ -1,0 +1,16 @@
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/bin/Debug/net9.0/xadrez-console
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/bin/Debug/net9.0/xadrez-console.dll.config
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/bin/Debug/net9.0/xadrez-console.deps.json
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/bin/Debug/net9.0/xadrez-console.runtimeconfig.json
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/bin/Debug/net9.0/xadrez-console.dll
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/bin/Debug/net9.0/xadrez-console.pdb
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/xadrez-console.AssemblyInfoInputs.cache
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/xadrez-console.AssemblyInfo.cs
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/xadrez-console.csproj.CoreCompileInputs.cache
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/xadrez-console.sourcelink.json
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/xadrez-console.dll
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/refint/xadrez-console.dll
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/xadrez-console.pdb
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/xadrez-console.genruntimeconfig.cache
+/Users/matheusluizdasilva/project/xadrez-console/xadrez-console/obj/Debug/net9.0/ref/xadrez-console.dll
